@@ -1,0 +1,19 @@
+När använder man add respektive commit?
+commit skapar "commit". Det är som om att man sparar det man skapat i realtid, just där och då. Commit innehåller ändringar 
+som är i staging arean.
+
+add lägger till i staging area.
+
+Vad är pull repektive push?
+Ser du att andra gjort ändringar så kan du använda pull för att hämta dessa förändringar.
+push är om du vill dela det med andra, dina ändringar då.
+
+När använder man log respektive status?
+Med log ser du din historik och vad du gjort tidigare. Med status så ser du vad du ändrat eller modifierat och 
+kan då i sin tur se om du är redo att spara eller dela dom.
+
+Vad är en Git branch och varför är de viktiga?
+Git branch är viktigt för att avskilja och arbeta i en branch utan att störa eller "interfere" med den andra. Ett parallelt
+arbetssätt minskar risken för misstag.
+
+Jag skulle siktat på ett VG men har suttit så länge med det här att jag inte hinner svara på fler frågor innan deadline haha :D
